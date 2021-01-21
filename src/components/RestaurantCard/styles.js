@@ -34,6 +34,7 @@ export const Adress = styled.p`
   font-family: ${(props) => props.theme.fonts.regular};
   color: ${(props) => props.theme.colors.text};
   font-size: 18px;
+  font-weight: 500;
   line-height: 20px;
   margin-bottom: 10px;
 `;
